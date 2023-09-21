@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Learn New Skills
+thumbnail-img: /assets/img/MelissaNBW.jpg
 comments: false
 ---
 
