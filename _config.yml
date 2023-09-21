@@ -21,13 +21,13 @@ author: Eric Yount
 
 navbar-links:
   about: "about"
-    - code of conduct: "code-of-conduct"
-  analytics forward: "analytics-forward"
-  sponsors: "sponsors"
-  contact: "contact"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+#    - code of conduct: "code-of-conduct"
+#  analytics forward: "analytics-forward"
+#  sponsors: "sponsors"
+#  contact: "contact"
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
 
 ################
 # --- Logo --- #
