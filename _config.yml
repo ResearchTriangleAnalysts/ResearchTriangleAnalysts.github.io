@@ -20,7 +20,8 @@ author: Eric Yount
 ###############################################
 
 navbar-links:
-  about: "about"
+  about:
+    - about us: "about"
     - code of conduct: "code-of-conduct"
 #  analytics forward: "analytics-forward"
 #  sponsors: "sponsors"
