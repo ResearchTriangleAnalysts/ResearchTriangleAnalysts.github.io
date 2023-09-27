@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Sponsors
-cover-img: '/assets/img/PlatinumBanner2020.png'
 ---
 
 Many thanks to our ~~2020~~ 2023 Platinum Sponsors for providing year-round support for Research Triangle Analysts!
