@@ -24,7 +24,7 @@ navbar-links:
     - about us: "about"
     - code of conduct: "code-of-conduct"
 #  analytics forward: "analytics-forward"
-#  sponsors: "sponsors"
+  sponsors: "sponsors"
 #  contact: "contact"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
